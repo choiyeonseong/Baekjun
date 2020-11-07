@@ -12,7 +12,7 @@ public class Main {
 			int a = input.nextInt();
 			int b = input.nextInt();
 
-			array[i] = a + b;	//배열안넣고 바로 print하면 더 
+			array[i] = a + b;	//배열안넣고 바로 print하면 더 빨라
 		}
 		input.close();
 
